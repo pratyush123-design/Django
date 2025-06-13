@@ -1,0 +1,1 @@
+SELECT title, category FROM Books WHERE published_year = 2020;
